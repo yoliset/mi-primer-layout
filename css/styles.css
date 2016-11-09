@@ -1,0 +1,81 @@
+.contenedor
+{
+    width: 800px;
+    margin: 0 auto;
+    }
+
+.img-perfil{
+    border-radius: 200px;
+    width: 150px;
+    position: relative;
+    left: 37%;
+}
+.titulo1
+{
+    text-align: center;
+}
+.hero p{
+    text-align: center;
+    margin: 0 130px;
+}
+
+.codigo1
+{
+    width: 60%;
+    height: 4%;
+    background-color: darkgrey;
+    color: white;
+    margin-left: 18%;
+}
+.codigo2
+{
+    width: 40%;
+    height: 4%;
+    background-color: darkgrey;
+    color: white;
+    margin-left: 18%;
+ 
+}
+.codigo3
+{
+    width: 26%;
+    height: 4%;
+    background-color: darkgrey;
+    color: white;
+    margin-left: 18%;
+
+}
+h2 {
+    padding-top: 10px;
+    padding-left: 10px;
+    
+}
+
+/* LISTA coders */
+.titulo2
+{
+    margin-left: 15%;
+}
+.contendedor2 {
+    padding: 0px;
+    margin: 0 auto;
+    position: relative;
+    
+}
+.contenedor2 ul
+{
+    text-align: center;
+}
+.contenedor2 ul li
+{
+    display: inline-block;
+    width: 25%;
+    top: 0px;
+   height: 32%;
+  
+}
+
+.contenedor2 li .caja1, .caja2, .caja3 
+{
+    width: 150px;
+}

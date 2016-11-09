@@ -1,0 +1,82 @@
+
+.contenedor
+{
+    width: 700px;
+    margin: 0 auto;
+    
+}
+/* main-nav */
+.main-nav {
+    list-style: none;
+    margin: 15px 0;
+    padding: 0;
+    border: 1px solid black;
+    border-width: 1px 0;
+}
+.main-nav li {
+    display: inline-block;
+    
+}
+
+.main-nav li:after{
+    content: "|"
+}
+.main-nav li a {
+    
+    padding: 10px;
+    display: inline-block;
+    color: #000;
+    text-decoration: none;
+    font-size: 30px;
+}
+.main-nav li:last-child:after
+{
+    content: "";
+}
+.img-responsive
+{
+    width: 100%;
+}
+.hero hr{
+    width: 50px;
+    margin: 20px auto;
+    
+}
+.hero p{
+    text-align: center;
+    margin: 0 90px;
+}
+/* TITULO*/
+
+.raya {
+    width: 50px;
+    margin: 0px;
+
+}
+/* LISTA coders */
+div .contendedor2 {
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    
+}
+.contenedor2 ul li
+{
+    display: inline-block;
+    width: 32%;
+    top: 0px;
+   height: 32%;
+    position: relative;
+}
+.mio  li p{
+    position: absolute;
+	color:white;
+    right: 0;
+    bottom: 0;
+    margin: 10px;
+    
+        
+    }
+    
+
+
